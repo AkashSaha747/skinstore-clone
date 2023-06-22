@@ -4,7 +4,7 @@ This project is a clone of the SkinStore website, a leading online destination f
 
 ## Demo
 
-Visit the [deployed project](https://tubular-croissant-bbe5cb.netlify.app) to see the SkinStore Clone in action.
+Visit the [deployed project](https://thunderous-horse-13608c.netlify.app/) to see the SkinStore Clone in action.
 
 ## Features
 
